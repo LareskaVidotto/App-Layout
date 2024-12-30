@@ -1,4 +1,6 @@
-# myapp
+# App Layout
+
+Sistema desenvolvido durante as aulas do Talento Tech.
 
 A new Flutter project.
 
